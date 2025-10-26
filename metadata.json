@@ -1,0 +1,5 @@
+{
+  "name": "AI Market Analyst",
+  "description": "An AI-powered market analyst that provides short-term and long-term technical analysis, target and stop-loss levels, and market trend summaries for companies listed on NSE and BSE.",
+  "requestFramePermissions": []
+}
